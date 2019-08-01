@@ -12,6 +12,9 @@ using namespace std;
 #define MAXNUM 10
 #define False  0
 #define True 1
+
+#define Version 1
+/*代码版本号说明：version：1.1*/
 template<class T, class M = char> class LINE
 {
 private:                 //私有成员用于保存数据
