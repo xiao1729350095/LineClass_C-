@@ -13,7 +13,7 @@ using namespace std;
 #define False  0
 #define True 1
 
-#define Version 1
+#define Version 1.1
 /*代码版本号说明：version：1.1*/
 template<class T, class M = char> class LINE
 {
